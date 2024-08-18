@@ -1,1 +1,1 @@
-This  part is about Regression Modelling
+There are 2 parts A and B are both belong to this Project
